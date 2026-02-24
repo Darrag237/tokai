@@ -55,7 +55,5 @@ The app provides a smooth user experience with Arabic RTL support, Material 3 de
 - RTL Arabic Support
 - Gold Primary Color (#F4B400)
 
----
 
-## 📂 Project Structure
 
